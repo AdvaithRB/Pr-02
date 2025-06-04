@@ -1,0 +1,38 @@
+.para{
+    font-family :'Courier New', Courier, monospace;
+}
+
+.Education{
+    padding : 4rem 4rem 4rem 4rem !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.lead{
+    font-family: Arial, sans-serif;
+}
+
+.heading-2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.projectswd h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    align-self: left;
+    
+}
+
+.continfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .projimg{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    width : 60%;
+} */
